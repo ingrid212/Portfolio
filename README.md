@@ -1,2 +1,2 @@
 # Portfolio
-desenvolvendo um protfólio
+desenvolvendo um portfólio
