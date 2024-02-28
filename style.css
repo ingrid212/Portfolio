@@ -98,8 +98,7 @@ h2.red{
    font-size: 16px;
    font-family: Poppins;
    font-weight: bold;
-   font-style: normal;
-   text-align: center;
+font-style: normal;
    color: #f75c4e; 
 }
 h1.black{
@@ -108,7 +107,6 @@ h1.black{
     font-weight: bold;
     font-style: normal;
     line-height: 53px;
-    text-align: center;
     color: #000000;
     margin-top: 0px;
 }
@@ -122,4 +120,58 @@ h1.black{
     font-style: normal;
     line-height: 30px;
     color: #070f18;
+    text-align: center;
+    }
+    
+    #contactImg img {
+        width: 100%;
+    }
+    
+    #contactForm {
+        margin-left: 75px;
+        text-align: left;
+    }
+    
+    #contact {
+        margin-top: 100px;
+    }
+    
+    #contactForm input {
+        background: #f5f6fb;
+        border-radius: 50px;
+        font-size: 16px;
+        font-family: Poppins;
+        font-weight: normal;
+        font-style: normal;
+        line-height: 24px;
+        color: #575455;
+        border: 0;
+        width: 70%;
+        padding: 15px 60px 15px 60px;
+    }
+    
+    #contactForm button {
+        background: #1F7CFF;
+        border-radius: 50px;
+        font-size: 16px;
+        font-family: Poppins;
+        font-weight: 600;
+        font-style: normal;
+        line-height: 24px;
+        color: #FFFFFF;
+        border: 0;
+        padding: 15px 60px 15px 60px;
+        text-align: center;
+    }
+    
+    #portfolioTitle {
+        margin-top: 150px;
+    }
+    
+    #portfolioImg img {
+        width: 100%;
+    }
+    
+    .portfolioImg {
+        padding: 25px;
 }
